@@ -8,6 +8,7 @@ touch files.txt
 mkdir Rappel
 git  status
 git add .
+git status
 git commit -m "le Rappel"
 git push -f origin main
 
